@@ -19,3 +19,14 @@ Deep learning is a subset of **machine learning** that focuses on training algor
 - **Feedforward Neural Networks (FNNs)** – basic deep learning models.  
 - **Convolutional Neural Networks (CNNs)** – for images and computer vision.  
 - **Recurrent Neural Networks (RNNs)**, **LSTMs**, **GRUs** – for sequential data like
+
+---
+
+## Applications
+
+- Computer Vision (image recognition, self-driving cars).
+- Natural Language Processing (chatbots, translation).
+- Speech Recognition (Alexa, Siri).
+- Healthcare (disease detection).
+- Finance (fraud detection, stock prediction).
+
