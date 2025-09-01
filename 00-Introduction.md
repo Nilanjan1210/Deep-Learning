@@ -24,9 +24,9 @@ Deep learning is a subset of **machine learning** that focuses on training algor
 
 ## Applications
 
-- Computer Vision (image recognition, self-driving cars).
-- Natural Language Processing (chatbots, translation).
-- Speech Recognition (Alexa, Siri).
-- Healthcare (disease detection).
-- Finance (fraud detection, stock prediction).
+- **Computer Vision** – image recognition, self-driving cars.  
+- **Natural Language Processing** – chatbots, translation.  
+- **Speech Recognition** – Alexa, Siri.  
+- **Healthcare** – disease detection.  
+- **Finance** – fraud detection, stock prediction.  
 
